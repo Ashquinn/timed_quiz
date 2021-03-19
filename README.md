@@ -1,1 +1,3 @@
 # timed_quiz
+
+This code contains a timed and scored quiz. When the user opens the webpage they are presented with the start quiz button. Once they click the buttoon they will be presented with quiz question #1 and the timer will be begin. If they answer the question correctly a score will increment and they will move on to the next question. Once they are finished they can save their score and try the quiz again.
